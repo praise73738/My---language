@@ -1,9 +1,11 @@
-# My Language
+# Igbo Language Project
 
-This is my first language project hosted on GitHub.
+This repository documents the Igbo language.
 
-## Purpose
-This repository will contain rules, examples, and explanations of my language.
+## Contents
+- Vocabulary
+- Grammar
+- Example sentences
 
-## Example
-Hello world
+## Goal
+To preserve and teach the Igbo language using open resources.
